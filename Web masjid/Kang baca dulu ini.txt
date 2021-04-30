@@ -1,0 +1,23 @@
+kang ini ada 2 template responsive 
+coba pilih yang mana yang bagus
+
+di buat 2 website yaitu admin untuk merubah isi tampilan depan
+
+fitur tersedia:
+1.dasboard
+2.pengurus mesjid
+3.jam solat
+4.galery kegiaatan
+5.blog 
+6.contac
+
+kalo bayar rata rata $100 kebawah
+
+
+teknologi yang di gunakan :
+1.DBMS->MySQL
+2.CI4
+3.bootstrap 4
+4.SCSS
+5.DOM
+6.JS
